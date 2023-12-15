@@ -7,7 +7,7 @@
 </ul>
 <h2>How to use the visualization tool</h2>
 <ul>
-  <li> Go to http://44.195.111.155/ </li>
+  <li> Go to http://44.195.111.155/ [After December 15, 2023, this IP address will no longer be functional. Individuals seeking access to the Docker container for the web app, in order to host the site, are requested to get in touch with the owners.]</li>
 <li> If you don't have an account, sign-up for one, and then log-in (username is your email).</li>
 <li> Once you’ve logged in, click start a new program, and provide a name for the program and select the type of assignment (self-use). </li>
 <li> Once you’ve clicked create a program, copy the API key shown at the top of the screen. </li>
